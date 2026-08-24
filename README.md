@@ -2,18 +2,20 @@
 
 
 <br />
-<h2> Seja bem vindo(a) ao meu perfil do GITHUB! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2> Seja bem vindo(a) ao meu perfil do GITHUB! </h2>
 
 <p> 
 Me chamo Alyson, sou graduado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e atualmente faço PÓS GRADUAÇÃO em ENGENHARIA DE DADOS E INTELIGÊNCIA ARTIFICIAL. Foco na área de dados, também tenho skills nas áreas de Front-end, Web Design, Back-end, Desenvolvimento de Jogos.
 </p>
 
-<b> Skills</b>
+# Skills
 
 <p align="center">
 
-- 📋 Languages: 
-    
+
+- 📋 Linguagens: 
+
+
     ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![CS](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
@@ -24,7 +26,7 @@ Me chamo Alyson, sou graduado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e atualm
     ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
     ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
     
-    
+<br>
     
 - 🎨 Frameworks
 
@@ -47,6 +49,7 @@ Me chamo Alyson, sou graduado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e atualm
    ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
    ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+<br>
     
 - 💾 Databases:
 
@@ -57,9 +60,10 @@ Me chamo Alyson, sou graduado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e atualm
     ![PostGreeSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
     ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
     
-    
+<br>
     
 - 🎛️ Application and Tools:
+
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![UNITY](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -71,6 +75,7 @@ Me chamo Alyson, sou graduado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e atualm
     ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
     ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
     
 </p>
 
@@ -80,6 +85,7 @@ Me chamo Alyson, sou graduado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e atualm
 
 # ENTRE EM CONTATO:
 
+<p align="left">
 
  <a href="malito:alyson.medeiros1234@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  style="margin-bottom: 5px;" />
@@ -87,3 +93,5 @@ Me chamo Alyson, sou graduado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e atualm
   <a href="https://www.linkedin.com/in/alysonmll/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
+</p>
