@@ -5,8 +5,10 @@
 <h2> Seja bem vindo(a) ao meu perfil do GITHUB! </h2>
 
 <p> 
-Me chamo Alyson, sou graduado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e atualmente faço PÓS GRADUAÇÃO em ENGENHARIA DE DADOS E INTELIGÊNCIA ARTIFICIAL. Foco na área de dados, também tenho skills nas áreas de Front-end, Web Design, Back-end, Desenvolvimento de Jogos. Nas softskills, me destaco pela organização e gestão de tempo, além da comunicação e relações interpessoais.
+Me chamo Alyson, sou graduado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e atualmente faço PÓS GRADUAÇÃO em ENGENHARIA DE DADOS E INTELIGÊNCIA ARTIFICIAL. Foco na área de dados, também tenho skills nas áreas de Front-end, Web Design, Back-end, Desenvolvimento de Jogos. Nas softskills, me destaco principalmente pela organização, planejamento e gestão de tempo, além da comunicação e relações interpessoais.
 </p>
+
+<br>
 
 # Skills
 
