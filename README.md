@@ -5,7 +5,7 @@
 <h2> Seja bem vindo(a) ao meu perfil do GITHUB! </h2>
 
 <p> 
-Me chamo Alyson, sou graduado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e atualmente faço PÓS GRADUAÇÃO em ENGENHARIA DE DADOS E INTELIGÊNCIA ARTIFICIAL. Foco na área de dados, também tenho skills nas áreas de Front-end, Web Design, Back-end, Desenvolvimento de Jogos.
+Me chamo Alyson, sou graduado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e atualmente faço PÓS GRADUAÇÃO em ENGENHARIA DE DADOS E INTELIGÊNCIA ARTIFICIAL. Foco na área de dados, também tenho skills nas áreas de Front-end, Web Design, Back-end, Desenvolvimento de Jogos. Nas softskills, me destaco pela organização e gestão de tempo, além da comunicação e relações interpessoais.
 </p>
 
 # Skills
@@ -34,17 +34,15 @@ Me chamo Alyson, sou graduado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e atualm
    ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
    ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+   ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
    ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
    ![jQuary](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
    ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
    ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-   ![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-   ![Amp](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0)
    ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
    ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![Material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
    ![Codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
    ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
    ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -87,7 +85,7 @@ Me chamo Alyson, sou graduado em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e atualm
 
 <p align="left">
 
- <a href="malito:alyson.medeiros1234@gmail.com" target="_blank">
+ <a href="mailto:alyson.medeiros1234@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  style="margin-bottom: 5px;" />
 </a>   
   <a href="https://www.linkedin.com/in/alysonmll/" target="_blank">
