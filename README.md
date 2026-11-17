@@ -4,7 +4,8 @@
 
 ## Seja bem-vindo(a) ao meu perfil do GitHub!
 
-Me chamo Alyson, sou graduado em Análise e Desenvolvimento de Sistemas e atualmente faço pós-graduação em Engenharia de Dados e Inteligência Artificial. Meu foco é a área de dados, mas também tenho experiência em Front-end, Web Design, Back-end.
+Me chamo Alyson, sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Engenharia de Dados e Inteligência Artificial. Tenho interesse principalmente em desenvolvimento de software, bancos de dados, dados e Inteligência Artificial, buscando unir essas áreas em projetos práticos e soluções aplicáveis ao negócio.
+
 
 Meus projetos em destaque estão logo abaixo. Se quiser conversar, o contato está no fim da página.
 
