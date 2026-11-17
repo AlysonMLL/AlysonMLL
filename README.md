@@ -11,45 +11,45 @@ Meus projetos em destaque estão logo abaixo. Se quiser conversar, o contato est
 <br>
 
 ```text
-+------------------------------------------------------------------------------------+
-| alyson@github: ~                                                       [-] [o] [x] |
-+------------------------------------------------------------------------------------+
-|                                                                                    |
-| $ whoami                                                                           |
-|                                                                                    |
-|   Alyson | ADS | Pós em Engenharia de Dados e IA                                   |
-|                                                                                    |
-| $ cat stack.txt                                                                    |
-|                                                                                    |
-|   LINGUAGENS   Python, Java, TypeScript, JavaScript, SQL, R                        |
-|                                                                                    |
-|   BACKEND      FastAPI, Django, Flask, Spring Boot, Node.js, Prisma, GraphQL       |
-|                                                                                    |
-|   FRONTEND     React, Vue, Next.js, Tailwind CSS, Material UI, HTML, CSS           |
-|                                                                                    |
-|   DADOS        PostgreSQL, MySQL, SQLite, MongoDB, Pandas, Supabase, Neon          |
-|                                                                                    |
-|   INFRA        Docker, Render, Vercel, n8n                                         |
-|                                                                                    |
-|   IDEs         VS Code, PyCharm, IntelliJ, pgAdmin, MySQL Workbench, DataGrip      |
-|                                                                                    |
-|   FERRAMENTAS   Power BI, Excel, Git, GitHub, Figma                                |
-|                                                                                    |
-|   EM ESTUDO  Power BI, Excel, dbt, Streamlit, Django, NoSQL                        |
-|                                                                                    |
-| $ cat soft-skills.txt                                                              |
-|                                                                                    |
-|   organização, planejamento, gestão do tempo, comunicação,                         |
-|   relações interpessoais                                                           |
-|                                                                                    |
-| $ ./foco-atual.sh                                                                  |
-|                                                                                    |
-|   > Engenharia de Dados: pipelines                                                 |
-|   > Próximo projeto: Music Data Pipeline                                           |
-|                                                                                    |
-| $ _                                                                                |
-|                                                                                    |
-+------------------------------------------------------------------------------------+
++-------------------------------------------------------------------------------------------------+
+| alyson@github: ~                                                                    [-] [o] [x] |
++-------------------------------------------------------------------------------------------------+
+|                                                                                                 |
+| $ whoami                                                                                        |
+|                                                                                                 |
+|   Alyson | ADS | Pós em Engenharia de Dados e IA                                                |
+|                                                                                                 |
+| $ cat stack.txt                                                                                 |
+|                                                                                                 |
+|   LINGUAGENS   Python, Java, TypeScript, JavaScript, SQL, R                                     |
+|                                                                                                 |
+|   BACKEND      FastAPI, Django, Flask, Spring Boot, Node.js, Prisma, GraphQL                    |
+|                                                                                                 |
+|   FRONTEND     React, Vue, Next.js, Tailwind CSS, Material UI, HTML, CSS                        |
+|                                                                                                 |
+|   DADOS        PostgreSQL, MySQL, SQLite, MongoDB, Pandas, Supabase, Neon                       |
+|                                                                                                 |
+|   INFRA        Docker, Render, Vercel, n8n                                                      |
+|                                                                                                 |
+|   IDEs         VS Code, PyCharm, IntelliJ, pgAdmin, MySQL Workbench, DataGrip                   |
+|                                                                                                 |
+|   TOOLS        Power BI, Excel, Git, GitHub, Figma                                              |
+|                                                                                                 |
+|   EM ESTUDO    Power BI, Excel, AWS, dbt, Streamlit, Django, NoSQL                              |
+|                                                                                                 |
+| $ cat soft-skills.txt                                                                           |
+|                                                                                                 |
+|   organização, planejamento, gestão do tempo, comunicação,                                      |
+|   relações interpessoais                                                                        |
+|                                                                                                 |
+| $ ./foco-atual.sh                                                                               |
+|                                                                                                 |
+|   > Engenharia de Dados: pipelines                                                              |
+|   > Próximo projeto: Music Data Pipeline                                                        |
+|                                                                                                 |
+| $ _                                                                                             |
+|                                                                                                 |
++-------------------------------------------------------------------------------------------------+
 ```
 
 <br>
